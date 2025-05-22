@@ -9,9 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "cloudinary": "^2.6.1",
+    "next": "14.2.5",
+    "photoswipe": "^5.4.4",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.5"
+    "react-icons": "^5.5.0",
+    "react-photoswipe-gallery": "^3.1.1",
+    "react-share": "^5.2.2",
+    "react-toastify": "^11.0.5"
   },
   "devDependencies": {
     "postcss": "^8",
